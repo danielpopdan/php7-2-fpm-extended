@@ -12,4 +12,5 @@ A docker image starting from php:7.2-fpm and installs some additional libraries:
   - pdo_mysql
   - redis
   - ampq
+  - gd
   
